@@ -13,7 +13,6 @@ public class Music {
         for (int i = 0; i < playList.length; i++) {
             if (playList[i].equals(selection)) {
                 targetIndex = i;
-                break;
             }
         }
 
